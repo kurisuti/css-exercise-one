@@ -1,3 +1,10 @@
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
 .nav {
   background color: yellow;
   height: 100px;
@@ -48,13 +55,4 @@ table {
   padding-top: 30px;
   text-align: center;
   font-size: 1.3em;
-}
-
-/** Footer **/
-
-.element {
-  background-color: green;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
 }
