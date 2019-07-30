@@ -10,32 +10,11 @@
 }
 
 .nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
   width: 100%;
-}
-
-/** Eric Meyer CSS reset **/
-
-}
-ol, ul {
-	list-style: none;
-}
-
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
 }
 
 .section {
